@@ -1,11 +1,6 @@
 ========================================================================
-    CONSOLE APPLICATION : OpenGL3DTemplate Project Overview
+            3D Simple Game made For Uni Assignment
 ========================================================================
-
-AppWizard has created this OpenGL3DTemplate application for you.
-
-This file contains a summary of what you will find in each of the files that
-make up your OpenGL3DTemplate application.
 
 
 OpenGL3DTemplate.vcxproj
@@ -23,18 +18,5 @@ OpenGL3DTemplate.vcxproj.filters
 
 OpenGL3DTemplate.cpp
     This is the main application source file.
-
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named OpenGL3DTemplate.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
